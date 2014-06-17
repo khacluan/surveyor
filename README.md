@@ -44,7 +44,7 @@ A more exhaustive list can be found in the [gemspec][].
 
 Add surveyor to your Gemfile:
 
-    gem "surveyor"
+    gem "surveyor", git: 'git@github.com:khacluan/surveyor.git'
 
 Bundle, install, and migrate:
 
